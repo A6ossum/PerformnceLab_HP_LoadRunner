@@ -1,0 +1,231 @@
+1cf9
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="oldie ie6" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7 ]>    <html class="oldie ie7" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8 ]>    <html class="oldie ie8" lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" dir="ltr"> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Test forum (Page 1) — Тестовый форум — Ничего интересного" />
+<title>Test forum (Page 1) — Тестовый форум</title>
+<link rel="alternate" type="application/rss+xml" href="http://nbnote.ru/pbb/extern.php?action=feed&amp;fid=1&amp;type=rss" title="RSS" />
+<link rel="alternate" type="application/atom+xml" href="http://nbnote.ru/pbb/extern.php?action=feed&amp;fid=1&amp;type=atom" title="ATOM" />
+<link rel="search" type="text/html" href="http://nbnote.ru/pbb/search.php" title="Search" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://nbnote.ru/pbb/misc.php?action=opensearch" title="Тестовый форум" />
+<link rel="author" type="text/html" href="http://nbnote.ru/pbb/userlist.php" title="User list" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" />
+
+</head>
+<body>
+	<div id="brd-messages" class="brd"></div>
+
+	<div id="brd-wrap" class="brd">
+	<div id="brd-viewforum" class="brd-page paged-page">
+	<div id="brd-head" class="gen-content">
+		<p id="brd-access"><a href="#brd-main">Skip to forum content</a></p>
+		<p id="brd-title"><a href="http://nbnote.ru/pbb/index.php">Тестовый форум</a></p>
+		<p id="brd-desc">Ничего интересного</p>
+	</div>
+	<div id="brd-navlinks" class="gen-content">
+		<ul>
+		<li id="navindex"><a href="http://nbnote.ru/pbb/index.php">Index</a></li>
+		<li id="navuserlist"><a href="http://nbnote.ru/pbb/userlist.php">User list</a></li>
+		<li id="navsearch"><a href="http://nbnote.ru/pbb/search.php">Search</a></li>
+		<li id="navprofile"><a href="http://nbnote.ru/pbb/profile.php?id=37">Profile</a></li>
+		<li id="navlogout"><a href="http://nbnote.ru/pbb/login.php?action=out&amp;id=37&amp;csrf_token=0447d3ca4c3390061b73581ab66c46e1322929d6">Logout</a></li>
+	</ul>
+		
+	</div>
+	<div id="brd-visit" class="gen-content">
+		<p id="welcome"><span>Logged in as <strong>gorelka</strong>.</span></p>
+		<p id="visit-links" class="options"><span id="visit-new" class="first-item"><a href="http://nbnote.ru/pbb/search.php?action=show_new" title="Find topics containing posts made since your last visit.">New posts</a></span> <span id="visit-recent"><a href="http://nbnote.ru/pbb/search.php?action=show_recent" title="Find topics which contain recent posts.">Active topics</a></span> <span id="visit-unanswered"><a href="http://nbnote.ru/pbb/search.php?action=show_unanswered" title="Find topics which have not been replied to.">Unanswered topics</a></span></p>
+	</div>
+	
+	<div class="hr"><hr /></div>
+	<div id="brd-main">
+		<h1 class="main-title"><a class="permalink" href="http://nbnote.ru/pbb/viewforum.php?id=1" rel="bookmark" title="Permanent link to this forum.">Test forum</a></h1>
+
+		<div id="brd-crumbs-top" class="crumbs">
+	<p><span class="crumb crumbfirst"><a href="http://nbnote.ru/pbb/index.php">Тестовый форум</a></span> <span class="crumb crumblast"><span> &rarr;&#160;</span>Test forum</span> </p>
+</div>
+		
+		<div id="brd-pagepost-top" class="main-pagepost gen-content">
+	<p class="paging"><span class="pages">Pages</span> <strong class="first-item">1</strong></p>
+	<p class="posting"><a class="newpost" href="http://nbnote.ru/pbb/post.php?fid=1"><span>Post new topic</span></a></p>
+</div>
+		<div class="main-head">
+
+		<p class="options"><span class="feed first-item"><a class="feed" href="http://nbnote.ru/pbb/extern.php?action=feed&amp;fid=1&amp;type=rss">RSS forum feed</a></span> <span><a class="sub-option" href="http://nbnote.ru/pbb/misc.php?forum_subscribe=1&amp;csrf_token=170907d01287426cb115cec11303f27a5c059dda" title="Receive email notification of new topics.">Subscribe</a></span></p>		<h2 class="hn"><span><span class="item-info">Topics: 9</span></span></h2>
+	</div>
+	<div class="main-subhead">
+		<p class="item-summary forum-views"><span><strong class="subject-title">Topics</strong> in this forum with details of <strong class="info-replies">replies</strong>, <strong class="info-views">views</strong>, <strong class="info-lastpost">last post</strong>.</span></p>
+	</div>
+	<div id="forum1" class="main-content main-forum forum-views">
+		<div id="topic7" class="main-item odd main-first-item normal new">
+			<span class="icon normal new"><!-- --></span>
+			<div class="item-subject">
+				<h3 class="hn"><span class="item-num">1</span> <a href="http://nbnote.ru/pbb/viewtopic.php?id=7">Hard Rock topic!</a></h3>
+				<p><span class="item-starter">by <cite>vbienf</cite></span> <span class="item-nav">( <span>Pages&#160;</span><a class="first-item" href="http://nbnote.ru/pbb/viewtopic.php?id=7">1</a>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=7&amp;p=2">2</a>&#160;&#160;<em class="item-newposts"><a href="http://nbnote.ru/pbb/viewtopic.php?id=7&amp;action=new">New posts</a></em> )</span></p>
+			</div>
+			<ul class="item-info">
+				<li class="info-replies"><strong>48</strong> <span class="label">replies</span></li>
+				<li class="info-views"><strong>765</strong> <span class="label">views</span></li>
+				<li class="info-lastpost"><span class="label">Last post</span> <strong><a href="http://nbnote.ru/pbb/viewtopic.php?pid=523#p523">Today 15:29:40</a></strong> <cite>by vuser00001</cite></li>
+			</ul>
+		</div>
+		<div id="topic2" class="main-item even normal">
+			<span class="icon normal"><!-- --></span>
+			<div class="item-subject">
+				<h3 class="hn"><span class="item-num">2</span> <a href="http://nbnote.ru/pbb/viewtopic.php?id=2">new topic</a></h3>
+				<p><span class="item-starter">by <cite>vbienf</cite></span> <span class="item-nav">( <span>Pages&#160;</span><a class="first-item" href="http://nbnote.ru/pbb/viewtopic.php?id=2">1</a>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=2&amp;p=2">2</a> )</span></p>
+			</div>
+			<ul class="item-info">
+				<li class="info-replies"><strong>25</strong> <span class="label">replies</span></li>
+				<li class="info-views"><strong>375</strong> <span class="label">views</span></li>
+				<li class="info-lastpost"><span class="label">Last post</span> <strong><a href="http://nbnote.ru/pbb/viewtopic.php?pid=507#p507">Today 00:50:49</a></strong> <cite>by vuser00001</cite></li>
+			</ul>
+		</div>
+		<div id="topic9" class="main-item odd normal">
+			<span class="icon normal"><!-- --></span>
+			<div class="item-subject">
+				<h3 class="hn"><span class="item-num">3</span> <a href="http://nbnote.ru/pbb/viewtopic.php?id=9">test 2 topic</a></h3>
+				<p><span class="item-starter">by <cite>quadkross</cite></span> <span class="item-nav">( <span>Pages&#160;</span><a class="first-item" href="http://nbnote.ru/pbb/viewtopic.php?id=9">1</a>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=9&amp;p=2">2</a>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=9&amp;p=3">3</a>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=9&amp;p=4">4</a> )</span></p>
+			</div>
+			<ul class="item-info">
+				<li class="info-replies"><strong>90</strong> <span class="label">repl
+1eb5
+ies</span></li>
+				<li class="info-views"><strong>990</strong> <span class="label">views</span></li>
+				<li class="info-lastpost"><span class="label">Last post</span> <strong><a href="http://nbnote.ru/pbb/viewtopic.php?pid=504#p504">Yesterday 12:03:40</a></strong> <cite>by vuser00001</cite></li>
+			</ul>
+		</div>
+		<div id="topic6" class="main-item even normal">
+			<span class="icon normal"><!-- --></span>
+			<div class="item-subject">
+				<h3 class="hn"><span class="item-num">4</span> <a href="http://nbnote.ru/pbb/viewtopic.php?id=6">Topic Hodor!</a></h3>
+				<p><span class="item-starter">by <cite>vbienf</cite></span> <span class="item-nav">( <span>Pages&#160;</span><a class="first-item" href="http://nbnote.ru/pbb/viewtopic.php?id=6">1</a>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=6&amp;p=2">2</a> )</span></p>
+			</div>
+			<ul class="item-info">
+				<li class="info-replies"><strong>26</strong> <span class="label">replies</span></li>
+				<li class="info-views"><strong>246</strong> <span class="label">views</span></li>
+				<li class="info-lastpost"><span class="label">Last post</span> <strong><a href="http://nbnote.ru/pbb/viewtopic.php?pid=503#p503">Yesterday 11:42:35</a></strong> <cite>by vuser00001</cite></li>
+			</ul>
+		</div>
+		<div id="topic4" class="main-item odd normal">
+			<span class="icon normal"><!-- --></span>
+			<div class="item-subject">
+				<h3 class="hn"><span class="item-num">5</span> <a href="http://nbnote.ru/pbb/viewtopic.php?id=4">Old topic</a></h3>
+				<p><span class="item-starter">by <cite>vbienf</cite></span></p>
+			</div>
+			<ul class="item-info">
+				<li class="info-replies"><strong>20</strong> <span class="label">replies</span></li>
+				<li class="info-views"><strong>340</strong> <span class="label">views</span></li>
+				<li class="info-lastpost"><span class="label">Last post</span> <strong><a href="http://nbnote.ru/pbb/viewtopic.php?pid=490#p490">2016-12-03 17:33:33</a></strong> <cite>by ruzuaky1987</cite></li>
+			</ul>
+		</div>
+		<div id="topic5" class="main-item even normal">
+			<span class="icon normal"><!-- --></span>
+			<div class="item-subject">
+				<h3 class="hn"><span class="item-num">6</span> <a href="http://nbnote.ru/pbb/viewtopic.php?id=5">Topic for the Horde!</a></h3>
+				<p><span class="item-starter">by <cite>vbienf</cite></span></p>
+			</div>
+			<ul class="item-info">
+				<li class="info-replies"><strong>5</strong> <span class="label">replies</span></li>
+				<li class="info-views"><strong>332</strong> <span class="label">views</span></li>
+				<li class="info-lastpost"><span class="label">Last post</span> <strong><a href="http://nbnote.ru/pbb/viewtopic.php?pid=435#p435">2016-12-03 13:28:26</a></strong> <cite>by nu_test1</cite></li>
+			</ul>
+		</div>
+		<div id="topic1" class="main-item odd normal">
+			<span class="icon normal"><!-- --></span>
+			<div class="item-subject">
+				<h3 class="hn"><span class="item-num">7</span> <a href="http://nbnote.ru/pbb/viewtopic.php?id=1">Test post</a></h3>
+				<p><span class="item-starter">by <cite>rabbit.s</cite></span> <span class="item-nav">( <span>Pages&#160;</span><a class="first-item" href="http://nbnote.ru/pbb/viewtopic.php?id=1">1</a>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=1&amp;p=2">2</a>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=1&amp;p=3">3</a>&#160;<span>…</span>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=1&amp;p=7">7</a> )</span></p>
+			</div>
+			<ul class="item-info">
+				<li class="info-replies"><strong>159</strong> <span class="label">replies</span></li>
+				<li class="info-views"><strong>2,078</strong> <span class="label">views</span></li>
+				<li class="info-lastpost"><span class="label">Last post</span> <strong><a href="http://nbnote.ru/pbb/viewtopic.php?pid=431#p431">2016-11-08 12:36:57</a></strong> <cite>by lrtusr</cite></li>
+			</ul>
+		</div>
+		<div id="topic3" class="main-item even normal">
+			<span class="icon normal"><!-- --></span>
+			<div class="item-subject">
+				<h3 class="hn"><span class="item-num">8</span> <a href="http://nbnote.ru/pbb/viewtopic.php?id=3">Topic for test</a></h3>
+				<p><span class="item-starter">by <cite>vbienf</cite></span> <span class="item-nav">( <span>Pages&#160;</span><a class="first-item" href="http://nbnote.ru/pbb/viewtopic.php?id=3">1</a>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=3&amp;p=2">2</a> )</span></p>
+			</div>
+			<ul class="item-info">
+				<li class="info-replies"><strong>29</strong> <span class="label">replies</span></li>
+				<li class="info-views"><strong>376</strong> <span class="label">views</span></li>
+				<li class="info-lastpost"><span class="label">Last post</span> <strong><a href="http://nbnote.ru/pbb/viewtopic.php?pid=420#p420">2016-11-07 23:19:48</a></strong> <cite>by lrtusr</cite></li>
+			</ul>
+		</div>
+		<div id="topic8" class="main-item odd normal">
+			<span class="icon normal"><!-- --></span>
+			<div class="item-subject">
+				<h3 class="hn"><span class="item-num">9</span> <a href="http://nbnote.ru/pbb/viewtopic.php?id=8">test 1 topic</a></h3>
+				<p><span class="item-starter">by <cite>quadkross</cite></span> <span class="item-nav">( <span>Pages&#160;</span><a class="first-item" href="http://nbnote.ru/pbb/viewtopic.php?id=8">1</a>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=8&amp;p=2">2</a>&#160;<a href="http://nbnote.ru/pbb/viewtopic.php?id=8&amp;p=3">3</a> )</span></p>
+			</div>
+			<ul class="item-info">
+				<li class="info-replies"><strong>54</strong> <span class="label">replies</span></li>
+				<li class="info-views"><strong>527</strong> <span class="label">views</span></li>
+				<li class="info-lastpost"><span class="label">Last post</span> <strong><a href="http://nbnote.ru/pbb/viewtopic.php?pid=334#p334">2016-11-03 17:02:45</a></strong> <cite>by uuser</cite></li>
+			</ul>
+		</div>
+	</div>
+	<div class="main-foot">
+
+			<p class="options"><span class="first-item"><a href="http://nbnote.ru/pbb/misc.php?action=markforumread&amp;fid=1&amp;csrf_token=9b6e5d072594dc5003d580bd45d251a4f5aa3b3f">Mark forum as read</a></span></p>		<h2 class="hn"><span><span class="item-info">Topics: 9</span></span></h2>
+	</div>
+		<div id="brd-pagepost-end" class="main-pagepost gen-content">
+	<p class="paging"><span class="pages">Pages</span> <strong class="first-item">1</strong></p>
+	<p class="posting"><a class="newpost" href="http://nbnote.ru/pbb/post.php?fid=1"><span>Post new topic</span></a></p>
+</div>
+		<div id="brd-crumbs-end" class="crumbs">
+	<p><span class="crumb crumbfirst"><a href="http://nbnote.ru/pbb/index.php">Тестовый форум</a></span> <span class="crumb crumblast"><span> &rarr;&#160;</span>Test forum</span> </p>
+</div>
+	</div>
+		<!-- forum_qpost -->
+		<!-- forum_info -->
+	<div class="hr"><hr /></div>
+	<div id="brd-about">
+		<p id="copyright">Powered by <a href="http://punbb.informer.com/">PunBB</a>, supported by <a href="http://www.informer.com/">Informer Technologies, Inc</a>.</p>
+	</div>
+		<!-- forum_debug -->
+	</div>
+	</div>
+	<script>if (typeof PUNBB === 'undefined' || !PUNBB) {
+		var PUNBB = {};
+	}
+
+	PUNBB.env = {
+		base_url: "http://nbnote.ru/pbb/",
+		base_js_url: "http://nbnote.ru/pbb/include/js/",
+		user_lang: "English",
+		user_style: "Oxygen",
+		user_is_guest: "0",
+		page: "viewforum"
+	};</script>
+<script src="http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js"></script>
+<script src="http://nbnote.ru/pbb/include/js/min/punbb.common.min.js"></script>
+
+	<script>
+	    var main_menu = responsiveNav("#brd-navlinks", {
+		label: "Тестовый форум"
+	    });
+	    if(document.getElementsByClassName('admin-menu').length){
+		var admin_menu = responsiveNav(".admin-menu", {
+		    label: "Admin Menu"
+		});
+	    }
+	    if(document.getElementsByClassName('main-menu').length){
+		var profile_menu = responsiveNav(".main-menu", {
+		    label: "Profile Menu"
+		});
+	    }
+	</script>
+</body>
+</html>
+
+0
+
