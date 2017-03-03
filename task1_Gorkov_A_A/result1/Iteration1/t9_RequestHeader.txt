@@ -1,9 +1,0 @@
-GET /pbb/viewtopic.php?id=5 HTTP/1.1
-User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
-Accept-Encoding: gzip, deflate
-Accept-Language: ru-RU
-Accept: */*
-Connection: Keep-Alive
-Host: nbnote.ru
-Cookie: PHPSESSID=3alk90t82cc611ucd0v594km52; forum_cookie_3e0e84=Mzd8ODkzYTczOWYxOGExMmIyMjIzNTQyMzZmNzUyOThiOGY0MTg2MDk3MXwxNDg4NTQzODQ0fGQ3NDQzYjU1NGM5MTYxMDhmZDJiMTVmZDk2ZGQ1MTA2MDc1ZjMwYzY%3D; forum_cookie_3e0e84_track=t3%3D1488538444%3Bt7%3D1488538443%3B
-
