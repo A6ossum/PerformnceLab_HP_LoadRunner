@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\test_program\git\PerformnceLab_HP_LoadRunner\GorkovAA_Task1_SearchTopic_nbnote\GorkovAA_Task1_SearchTopic_nbnote
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\test_program\git\performncelab_hp_loadrunner\gorkovaa_task1_searchtopic_nbnote\gorkovaa_task1_searchtopic_nbnote\\logfile.log
+d:\test_program\git\performncelab_hp_loadrunner\gorkovaa_task1_searchtopic_nbnote\gorkovaa_task1_searchtopic_nbnote\\combined_GorkovAA_Task1_SearchTopic_nbnote.c
+d:\test_program\git\performncelab_hp_loadrunner\gorkovaa_task1_searchtopic_nbnote\gorkovaa_task1_searchtopic_nbnote\\pre_cci.c

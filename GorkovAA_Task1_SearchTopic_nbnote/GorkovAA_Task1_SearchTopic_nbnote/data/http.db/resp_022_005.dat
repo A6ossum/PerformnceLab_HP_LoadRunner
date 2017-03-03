@@ -1,0 +1,252 @@
+1c86
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="oldie ie6" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7 ]>    <html class="oldie ie7" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8 ]>    <html class="oldie ie8" lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" dir="ltr"> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="ROBOTS" content="NOINDEX, FOLLOW" />
+<title>Search results (Page 1) — Тестовый форум</title>
+<link rel="search" type="text/html" href="http://nbnote.ru/pbb/search.php" title="Search" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://nbnote.ru/pbb/misc.php?action=opensearch" title="Тестовый форум" />
+<link rel="author" type="text/html" href="http://nbnote.ru/pbb/userlist.php" title="User list" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" />
+
+</head>
+<body>
+	<div id="brd-messages" class="brd"></div>
+
+	<div id="brd-wrap" class="brd">
+	<div id="brd-searchposts" class="brd-page paged-page">
+	<div id="brd-head" class="gen-content">
+		<p id="brd-access"><a href="#brd-main">Skip to forum content</a></p>
+		<p id="brd-title"><a href="http://nbnote.ru/pbb/index.php">Тестовый форум</a></p>
+		<p id="brd-desc">Ничего интересного</p>
+	</div>
+	<div id="brd-navlinks" class="gen-content">
+		<ul>
+		<li id="navindex"><a href="http://nbnote.ru/pbb/index.php">Index</a></li>
+		<li id="navuserlist"><a href="http://nbnote.ru/pbb/userlist.php">User list</a></li>
+		<li id="navsearch"><a href="http://nbnote.ru/pbb/search.php">Search</a></li>
+		<li id="navprofile"><a href="http://nbnote.ru/pbb/profile.php?id=37">Profile</a></li>
+		<li id="navlogout"><a href="http://nbnote.ru/pbb/login.php?action=out&amp;id=37&amp;csrf_token=0447d3ca4c3390061b73581ab66c46e1322929d6">Logout</a></li>
+	</ul>
+		
+	</div>
+	<div id="brd-visit" class="gen-content">
+		<p id="welcome"><span>Logged in as <strong>gorelka</strong>.</span></p>
+		<p id="visit-links" class="options"><span id="visit-new" class="first-item"><a href="http://nbnote.ru/pbb/search.php?action=show_new" title="Find topics containing posts made since your last visit.">New posts</a></span> <span id="visit-recent"><a href="http://nbnote.ru/pbb/search.php?action=show_recent" title="Find topics which contain recent posts.">Active topics</a></span> <span id="visit-unanswered"><a href="http://nbnote.ru/pbb/search.php?action=show_unanswered" title="Find topics which have not been replied to.">Unanswered topics</a></span></p>
+	</div>
+	
+	<div class="hr"><hr /></div>
+	<div id="brd-main">
+		<h1 class="main-title">Search options</h1>
+
+		<div id="brd-crumbs-top" class="crumbs">
+	<p><span class="crumb crumbfirst"><a href="http://nbnote.ru/pbb/index.php">Тестовый форум</a></span> <span class="crumb crumblast"><span> &rarr;&#160;</span>Search results</span> </p>
+</div>
+		
+		<div id="brd-pagepost-top" class="main-pagepost gen-content">
+	<p class="paging"><span class="pages">Pages</span> <strong class="first-item">1</strong></p>
+</div>
+		<div class="main-head">
+
+		<p class="options"><span class="first-item"><a href="http://nbnote.ru/pbb/search.php">Perform new search</a></span></p>		<h2 class="hn"><span><span class="item-info">Posts found: 8</span></span></h2>
+	</div>
+	<div class="main-content main-topic">
+	<div class="post odd firstpost topicpost resultpost">
+		<div class="posthead">
+			<h3 class="hn post-ident"><span class="post-num">1</span> <span class="post-byline"><span>Topic by </span><strong>quadkross</strong></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=21#p21">2016-06-23 01:47:36</a></span></h3>
+			<h4 class="hn post-title"><span><a class="permalink" rel="bookmark" title="Permanent link to this topic" href="http://nbnote.ru/pbb/viewtopic.php?id=9">Topic: test 2 topic</a> <small>(90 replies, posted in <a href="http://nbnote.ru/pbb/viewforum.php?id=1">Test forum</a>)</small></span></h4>
+		</div>
+		<div class="postbody">
+			<div class="post-entry">
+				<div class="entry-content">
+					<p>hey</p>				</div>
+			</div>
+		</div>
+		<div class="postfoot">
+			<div class="post-options">
+				<p class="post-actions"><span><a href="http://nbnote.ru/pbb/viewforum.php?id=1">Go to forum<span>: Test forum</span></a></span> <span><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=21#p21">Go to post<span> 1</span></a></span></p>
+			</div>
+		</div>
+	</div>
+	<div class="post even topicpost resultpost">
+		<div class="posthead">
+			<h3 class="hn post-ident"><span class="post-num">2</span> <span class="post-byline"><span>Topic by </span><strong>quadkross</strong></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=20#p20">2016-06-23 01:39:41</a></span></h3>
+			<h4 class="hn post-title"><span><a class="permalink" rel="bookmark" title="Permanent link to this topic" href="http://nbnote.ru/pbb/viewtopic.php?id=8">Topic: test 1 topic</a> <small>(54 replies, posted in <a href="http://nbnote.ru/pbb/viewforum.php?id=1">Test forum</a>)</small></span></h4>
+		</div>
+		<div class="postbody">
+			<div class="post-entry">
+				<div class="entry-content">
+					<p>hello</p>				</div>
+			</div>
+		</div>
+		<div class="postfoot">
+			<div class="post-options">
+				<p class="post-actions"><span><a href="http://nbnote.ru/pbb/viewforum.php?id=1">Go to forum<span>: Test forum</span></a></span> <span><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=20#p20">Go to post<span> 2</span></a></span></p>
+			</div>
+		</div>
+	</div>
+	<div class="post odd topicpost resultpost">
+		<div class="posthead">
+			<h3 class="hn post-ident"><span class="post-num">3</span> <span class="post-byline"><span>Topic by </span><strong>vbienf</strong></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=17#p17">2016-06-19 22:15:30</a></span></h3>
+			<h4 class="hn post-title"><span><a class="permalink" rel="bookmark" title="Permanent link to this topic" href="http://nbnote.ru/pbb/viewtopic.php?id=7">Topic: Hard Rock topic!</a> <small>(48 replies, posted in <a href="http://nbnote.ru/pbb/viewforum.php?id=1">Test forum</a>)</small></span></h4>
+		</div>
+		<div class="postbody">
+			<div class="post-entry">
+				<div class="entry-content">
+					<p>Hard rock hallelujah</p>				</div>
+			</div>
+		</div>
+		<div class="postfoot">
+			<div class="post-options">
+				<p class="post-actions"><span><a href="http://nbnote.ru/pbb/viewforum.php?id=1">Go to forum<span>: Test forum</span></a></span> <span><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=17#p17">Go to post<span> 3</span></a></span></p>
+			</div>
+		</div>
+	</div>
+	<div class="post even topicpost resultpost">
+		<div class="posthead">
+			<h3 class="hn post-ident"><span class="post-num">4</span> <span class="post-byline"><span>To
+1e3b
+pic by </span><strong>vbienf</strong></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=16#p16">2016-06-19 22:11:34</a></span></h3>
+			<h4 class="hn post-title"><span><a class="permalink" rel="bookmark" title="Permanent link to this topic" href="http://nbnote.ru/pbb/viewtopic.php?id=6">Topic: Topic Hodor!</a> <small>(26 replies, posted in <a href="http://nbnote.ru/pbb/viewforum.php?id=1">Test forum</a>)</small></span></h4>
+		</div>
+		<div class="postbody">
+			<div class="post-entry">
+				<div class="entry-content">
+					<p>Hold the door. </p><p>R.I.P.</p>				</div>
+			</div>
+		</div>
+		<div class="postfoot">
+			<div class="post-options">
+				<p class="post-actions"><span><a href="http://nbnote.ru/pbb/viewforum.php?id=1">Go to forum<span>: Test forum</span></a></span> <span><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=16#p16">Go to post<span> 4</span></a></span></p>
+			</div>
+		</div>
+	</div>
+	<div class="post odd topicpost resultpost">
+		<div class="posthead">
+			<h3 class="hn post-ident"><span class="post-num">5</span> <span class="post-byline"><span>Topic by </span><strong>vbienf</strong></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=15#p15">2016-06-19 22:10:20</a></span></h3>
+			<h4 class="hn post-title"><span><a class="permalink" rel="bookmark" title="Permanent link to this topic" href="http://nbnote.ru/pbb/viewtopic.php?id=5">Topic: Topic for the Horde!</a> <small>(5 replies, posted in <a href="http://nbnote.ru/pbb/viewforum.php?id=1">Test forum</a>)</small></span></h4>
+		</div>
+		<div class="postbody">
+			<div class="post-entry">
+				<div class="entry-content">
+					<p>For the Horde!</p>				</div>
+			</div>
+		</div>
+		<div class="postfoot">
+			<div class="post-options">
+				<p class="post-actions"><span><a href="http://nbnote.ru/pbb/viewforum.php?id=1">Go to forum<span>: Test forum</span></a></span> <span><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=15#p15">Go to post<span> 5</span></a></span></p>
+			</div>
+		</div>
+	</div>
+	<div class="post even topicpost resultpost">
+		<div class="posthead">
+			<h3 class="hn post-ident"><span class="post-num">6</span> <span class="post-byline"><span>Topic by </span><strong>vbienf</strong></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=14#p14">2016-06-19 22:07:31</a></span></h3>
+			<h4 class="hn post-title"><span><a class="permalink" rel="bookmark" title="Permanent link to this topic" href="http://nbnote.ru/pbb/viewtopic.php?id=4">Topic: Old topic</a> <small>(20 replies, posted in <a href="http://nbnote.ru/pbb/viewforum.php?id=1">Test forum</a>)</small></span></h4>
+		</div>
+		<div class="postbody">
+			<div class="post-entry">
+				<div class="entry-content">
+					<p>try to find it</p>				</div>
+			</div>
+		</div>
+		<div class="postfoot">
+			<div class="post-options">
+				<p class="post-actions"><span><a href="http://nbnote.ru/pbb/viewforum.php?id=1">Go to forum<span>: Test forum</span></a></span> <span><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=14#p14">Go to post<span> 6</span></a></span></p>
+			</div>
+		</div>
+	</div>
+	<div class="post odd topicpost resultpost">
+		<div class="posthead">
+			<h3 class="hn post-ident"><span class="post-num">7</span> <span class="post-byline"><span>Topic by </span><strong>vbienf</strong></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=13#p13">2016-06-19 22:06:27</a></span></h3>
+			<h4 class="hn post-title"><span><a class="permalink" rel="bookmark" title="Permanent link to this topic" href="http://nbnote.ru/pbb/viewtopic.php?id=3">Topic: Topic for test</a> <small>(29 replies, posted in <a href="http://nbnote.ru/pbb/viewforum.php?id=1">Test forum</a>)</small></span></h4>
+		</div>
+		<div class="postbody">
+			<div class="post-entry">
+				<div class="entry-content">
+					<p>its easy way to find it</p>				</div>
+			</div>
+		</div>
+		<div class="postfoot">
+			<div class="post-options">
+				<p class="post-actions"><span><a href="http://nbnote.ru/pbb/viewforum.php?id=1">Go to forum<span>: Test forum</span></a></span> <span><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=13#p13">Go to post<span> 7</span></a></span></p>
+			</div>
+		</div>
+	</div>
+	<div class="post even lastpost topicpost resultpost">
+		<div class="posthead">
+			<h3 class="hn post-ident"><span class="post-num">8</span> <span class="post-byline"><span>Topic by </span><strong>vbienf</strong></span> <span class="post-link"><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=3#p3">2016-06-17 23:44:37</a></span></h3>
+			<h4 class="hn post-title"><span><a class="permalink" rel="bookmark" title="Permanent link to this topic" href="http://nbnote.ru/pbb/viewtopic.php?id=2">Topic: new topic</a> <small>(25 replies, posted in <a href="http://nbnote.ru/pbb/viewforum.php?id=1">Test forum</a>)</small></span></h4>
+		</div>
+		<div class="postbody">
+			<div class="post-entry">
+				<div class="entry-content">
+					<p>pam param pam</p>				</div>
+			</div>
+		</div>
+		<div class="postfoot">
+			<div class="post-options">
+				<p class="post-actions"><span><a href="http://nbnote.ru/pbb/viewforum.php?id=1">Go to forum<span>: Test forum</span></a></span> <span><a class="permalink" rel="bookmark" title="Permanent link to this post" href="http://nbnote.ru/pbb/viewtopic.php?pid=3#p3">Go to post<span> 8</span></a></span></p>
+			</div>
+		</div>
+	</div>
+	</div>
+
+	<div class="main-foot">
+		<h2 class="hn"><span><span class="item-info">Posts found: 8</span></span></h2>
+	</div>
+		<div id="brd-pagepost-end" class="main-pagepost gen-content">
+	<p class="paging"><span class="pages">Pages</span> <strong class="first-item">1</strong></p>
+</div>
+		<div id="brd-crumbs-end" class="crumbs">
+	<p><span class="crumb crumbfirst"><a href="http://nbnote.ru/pbb/index.php">Тестовый форум</a></span> <span class="crumb crumblast"><span> &rarr;&#160;</span>Search results</span> </p>
+</div>
+	</div>
+		<!-- forum_qpost -->
+		<!-- forum_info -->
+	<div class="hr"><hr /></div>
+	<div id="brd-about">
+		<p id="copyright">Powered by <a href="http://punbb.informer.com/">PunBB</a>, supported by <a href="http://www.informer.com/">Informer Technologies, Inc</a>.</p>
+	</div>
+		<!-- forum_debug -->
+	</div>
+	</div>
+	<script>if (typeof PUNBB === 'undefined' || !PUNBB) {
+		var PUNBB = {};
+	}
+
+	PUNBB.env = {
+		base_url: "http://nbnote.ru/pbb/",
+		base_js_url: "http://nbnote.ru/pbb/include/js/",
+		user_lang: "English",
+		user_style: "Oxygen",
+		user_is_guest: "0",
+		page: "searchposts"
+	};</script>
+<script src="http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js"></script>
+<script src="http://nbnote.ru/pbb/include/js/min/punbb.common.min.js"></script>
+
+	<script>
+	    var main_menu = responsiveNav("#brd-navlinks", {
+		label: "Тестовый форум"
+	    });
+	    if(document.getElementsByClassName('admin-menu').length){
+		var admin_menu = responsiveNav(".admin-menu", {
+		    label: "Admin Menu"
+		});
+	    }
+	    if(document.getElementsByClassName('main-menu').length){
+		var profile_menu = responsiveNav(".main-menu", {
+		    label: "Profile Menu"
+		});
+	    }
+	</script>
+</body>
+</html>
+
+0
+

@@ -6,5 +6,5 @@ Accept-Language: ru-RU
 Accept: */*
 Connection: Keep-Alive
 Host: nbnote.ru
-Cookie: PHPSESSID=3alk90t82cc611ucd0v594km52
+Cookie: PHPSESSID=d4r2l2n9nb773ihdii4fbq7tv4
 

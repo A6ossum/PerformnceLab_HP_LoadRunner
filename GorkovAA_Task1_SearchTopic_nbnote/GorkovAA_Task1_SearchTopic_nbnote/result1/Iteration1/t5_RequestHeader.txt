@@ -6,5 +6,5 @@ Accept-Language: ru-RU
 Accept: */*
 Connection: Keep-Alive
 Host: nbnote.ru
-Cookie: PHPSESSID=3alk90t82cc611ucd0v594km52; forum_cookie_3e0e84=Mzd8ODkzYTczOWYxOGExMmIyMjIzNTQyMzZmNzUyOThiOGY0MTg2MDk3MXwxNDg4NTQzODQxfGYxMWNhZGMzNzYxODlhZjY0MzI0NTgyNGY1MTc3NmIzOWE4YTU0MGY%3D
+Cookie: PHPSESSID=d4r2l2n9nb773ihdii4fbq7tv4; forum_cookie_3e0e84=Mzd8ODkzYTczOWYxOGExMmIyMjIzNTQyMzZmNzUyOThiOGY0MTg2MDk3MXwxNDg4NTQ5OTY1fDA3MWZiZDA5NmM3M2ExMWJkMDQ5ODg4YjcwNzk3ZTU1Njc1YmYyZjk%3D
 

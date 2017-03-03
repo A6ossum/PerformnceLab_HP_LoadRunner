@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="oldie ie6" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7 ]>    <html class="oldie ie7" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8 ]>    <html class="oldie ie8" lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" dir="ltr"> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="ROBOTS" content="NOINDEX, FOLLOW" />
+<title>Login to Тестовый форум — Тестовый форум</title>
+<link rel="search" type="text/html" href="http://nbnote.ru/pbb/search.php" title="Search" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://nbnote.ru/pbb/misc.php?action=opensearch" title="Тестовый форум" />
+<link rel="author" type="text/html" href="http://nbnote.ru/pbb/userlist.php" title="User list" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" />
+
+</head>
+<body>
+	<div id="brd-messages" class="brd"></div>
+
+	<div id="brd-wrap" class="brd">
+	<div id="brd-login" class="brd-page basic-page">
+	<div id="brd-head" class="gen-content">
+		<p id="brd-access"><a href="#brd-main">Skip to forum content</a></p>
+		<p id="brd-title"><a href="http://nbnote.ru/pbb/index.php">Тестовый форум</a></p>
+		<p id="brd-desc">Ничего интересного</p>
+	</div>
+	<div id="brd-navlinks" class="gen-content">
+		<ul>
+		<li id="navindex"><a href="http://nbnote.ru/pbb/index.php">Index</a></li>
+		<li id="navuserlist"><a href="http://nbnote.ru/pbb/userlist.php">User list</a></li>
+		<li id="navsearch"><a href="http://nbnote.ru/pbb/search.php">Search</a></li>
+		<li id="navregister"><a href="http://nbnote.ru/pbb/register.php">Register</a></li>
+		<li id="navlogin" class="isactive"><a href="http://nbnote.ru/pbb/login.php">Login</a></li>
+	</ul>
+		
+	</div>
+	<div id="brd-visit" class="gen-content">
+		<p id="welcome"><span>You are not logged in.</span> <span>Please login or register.</span></p>
+		<p id="visit-links" class="options"><span id="visit-recent" class="first-item"><a href="http://nbnote.ru/pbb/search.php?action=show_recent" title="Find topics which contain recent posts.">Active topics</a></span> <span id="visit-unanswered"><a href="http://nbnote.ru/pbb/search.php?action=show_unanswered" title="Find topics which have not been replied to.">Unanswered topics</a></span></p>
+	</div>
+	
+	<div class="hr"><hr /></div>
+	<div id="brd-main">
+		<h1 class="main-title">Login to Тестовый форум</h1>
+
+		<div id="brd-crumbs-top" class="crumbs">
+	<p><span class="crumb crumbfirst"><a href="http://nbnote.ru/pbb/index.php">Тестовый форум</a></span> <span class="crumb crumblast"><span> &rarr;&#160;</span>Login to Тестовый форум</span> </p>
+</div>
+		
+		
+		<div class="main-head">
+		<h2 class="hn"><span>Login to Тестовый форум</span></h2>
+	</div>
+	<div class="main-content main-frm">
+		<div class="content-head">
+			<p class="hn">Do you need to <a href="http://nbnote.ru/pbb/register.php">register</a> or obtain a <a href="http://nbnote.ru/pbb/login.php?action=forget">new password</a> before you login?</p>
+		</div>
+		<div id="req-msg" class="req-warn ct-box error-box">
+			<p class="important">All fields with bold label must be completed before the form is submitted.</p>
+		</div>
+		<form id="afocus" class="frm-form" method="post" accept-charset="utf-8" action="http://nbnote.ru/pbb/login.php">
+			<div class="hidden">
+				<input type="hidden" name="form_sent" value="1" />
+				<input type="hidden" name="redirect_url" value="http://nbnote.ru/pbb/viewtopic.php?id=7&amp;p=3" />
+				<input type="hidden" name="csrf_token" value="7891d9c05fcfe910d63cfcfbda6ad26ce337067c" />
+			</div>
+			<div class="frm-group group1">
+				<div class="sf-set set1">
+					<div class="sf-box text required">
+						<label for="fld1"><span>Username</span></label><br />
+						<span class="fld-input"><input type="text" id="fld1" name="req_username" value="" size="35" maxlength="25" required spellcheck="false" /></span>
+					</div>
+				</div>
+				<div class="sf-set set2">
+					<div class="sf-box text required">
+						<label for="fld2"><span>Password</span></label><br />
+						<span class="fld-input"><input type="password" id="fld2" name="req_password" value="" size="35" required /></span>
+					</div>
+				</div>
+				<div class="sf-set set3">
+					<div class="sf-box checkbox">
+						<span class="fld-input"><input type="checkbox" id="fld3" name="save_pass" value="1" /></span>
+						<label for="fld3">Remember me</label>
+					</div>
+				</div>
+			</div>
+			<div class="frm-buttons">
+				<span class="submit primary"><input type="submit" name="login" value="Login" /></span>
+			</div>
+		</form>
+	</div>
+		
+		<div id="brd-crumbs-end" class="crumbs">
+	<p><span class="crumb crumbfirst"><a href="http://nbnote.ru/pbb/index.php">Тестовый форум</a></span> <span class="crumb crumblast"><span> &rarr;&#160;</span>Login to Тестовый форум</span> </p>
+</div>
+	</div>
+		<!-- forum_qpost -->
+		<!-- forum_info -->
+	<div class="hr"><hr /></div>
+	<div id="brd-about">
+		<p id="copyright">Powered by <a href="http://punbb.informer.com/">PunBB</a>, supported by <a href="http://www.informer.com/">Informer Technologies, Inc</a>.</p>
+	</div>
+		<!-- forum_debug -->
+	</div>
+	</div>
+	<script>if (typeof PUNBB === 'undefined' || !PUNBB) {
+		var PUNBB = {};
+	}
+
+	PUNBB.env = {
+		base_url: "http://nbnote.ru/pbb/",
+		base_js_url: "http://nbnote.ru/pbb/include/js/",
+		user_lang: "English",
+		user_style: "Oxygen",
+		user_is_guest: "1",
+		page: "login"
+	};</script>
+<script src="http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js"></script>
+<script src="http://nbnote.ru/pbb/include/js/min/punbb.common.min.js"></script>
+
+	<script>
+	    var main_menu = responsiveNav("#brd-navlinks", {
+		label: "Тестовый форум"
+	    });
+	    if(document.getElementsByClassName('admin-menu').length){
+		var admin_menu = responsiveNav(".admin-menu", {
+		    label: "Admin Menu"
+		});
+	    }
+	    if(document.getElementsByClassName('main-menu').length){
+		var profile_menu = responsiveNav(".main-menu", {
+		    label: "Profile Menu"
+		});
+	    }
+	</script>
+</body>
+</html>
