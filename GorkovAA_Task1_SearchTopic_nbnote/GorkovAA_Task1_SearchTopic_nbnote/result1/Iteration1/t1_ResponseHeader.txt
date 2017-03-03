@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Fri, 03 Mar 2017 10:53:58 GMT
+Server: Apache/2.2.17 (Unix) PHP/5.3.28
+X-Powered-By: PHP/5.3.28
+Expires: Thu, 21 Jul 1977 07:30:00 GMT
+Last-Modified: Fri, 03 Mar 2017 10:53:58 GMT
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 5922
+Content-Type: text/html; charset=utf-8
+Set-Cookie: PHPSESSID=a1daeb204a24b9b2a36d8386ccdee32f; path=/
+Set-Cookie: PHPSESSID=3alk90t82cc611ucd0v594km52; path=/
+

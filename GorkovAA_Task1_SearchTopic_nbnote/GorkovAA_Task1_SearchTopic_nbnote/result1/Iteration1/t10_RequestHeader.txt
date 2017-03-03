@@ -1,0 +1,12 @@
+POST /pbb/post.php?tid=5 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://nbnote.ru/pbb/viewtopic.php?id=5
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU
+Accept: */*
+Connection: Keep-Alive
+Host: nbnote.ru
+Cookie: PHPSESSID=3alk90t82cc611ucd0v594km52; forum_cookie_3e0e84=Mzd8ODkzYTczOWYxOGExMmIyMjIzNTQyMzZmNzUyOThiOGY0MTg2MDk3MXwxNDg4NTQzODQ1fDU5YjM3MmU2MGRjODRkODhhNjNiZDE4YzlhZGVhM2M0OTMwZjU1ZDk%3D; forum_cookie_3e0e84_track=t5%3D1488538445%3Bt3%3D1488538444%3Bt7%3D1488538443%3B
+Content-Length: 94
+
