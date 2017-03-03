@@ -1,0 +1,156 @@
+Virtual User Script started at : 03.03.2017 13:54:05
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.53.0 for Windows 7; build 1203 (мар 03 2017 19:13:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Run-Time Settings file: "E:\yandex\Работа\PerformanceLab\HP LoadRunner\task1_Gorkov_A_A\task1_Gorkov_A_A\\default.cfg"  	[MsgId: MMSG-27141]
+vuser_init.c(4): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(4): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(6): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(6): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(8): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(8): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(10): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(10): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(12): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(12): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(14): web_url("index.php") started  	[MsgId: MMSG-26355]
+vuser_init.c(14): Downloading resource "http://nbnote.ru/favicon.ico" (specified by argument number 10)  	[MsgId: MMSG-26577]
+vuser_init.c(14): Downloading resource "https://r20swj13mr.microsoft.com/ieblocklist/v1/urlblockindex.bin" (specified by argument number 13)  	[MsgId: MMSG-26577]
+vuser_init.c(14): Found resource "http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" in HTML "http://nbnote.ru/pbb/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(14): Found resource "http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js" in HTML "http://nbnote.ru/pbb/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(14): Found resource "http://nbnote.ru/pbb/include/js/min/punbb.common.min.js" in HTML "http://nbnote.ru/pbb/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(14): web_url("index.php") was successful, 185044 body bytes, 1901 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(27): web_set_sockets_option started  	[MsgId: MMSG-26355]
+vuser_init.c(27): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+vuser_init.c(29): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(29): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(31): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(31): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(33): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(33): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(35): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(35): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(37): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(37): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(39): web_url("iecompatviewlist.xml") started  	[MsgId: MMSG-26355]
+vuser_init.c(39): web_url("iecompatviewlist.xml") was successful, 35064 body bytes, 467 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(49): Notify: Transaction "UC01_TR01_Login" started.
+vuser_init.c(51): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(51): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(53): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(53): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(55): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(55): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(57): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(57): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(59): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(59): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(61): web_add_cookie started  	[MsgId: MMSG-26355]
+vuser_init.c(61): web_add_cookie was successful  	[MsgId: MMSG-26392]
+vuser_init.c(63): lr_think_time: 1,18 seconds (recorded think time was 1,54 seconds).
+vuser_init.c(67): web_reg_save_param started  	[MsgId: MMSG-26355]
+vuser_init.c(67): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+vuser_init.c(72): web_url("login.php") started  	[MsgId: MMSG-26355]
+vuser_init.c(72): Resource "http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(72): Downloading resource "http://nbnote.ru/pbb/style/Oxygen/font/responsivenav.eot" (specified by argument number 10)  	[MsgId: MMSG-26577]
+vuser_init.c(72): Downloading resource "https://ieonline.microsoft.com/iedomainsuggestions/ie11/suggestions.ru-RU" (specified by argument number 12)  	[MsgId: MMSG-26577]
+vuser_init.c(72): Resource "http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(72): Resource "http://nbnote.ru/pbb/include/js/min/punbb.common.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(72): web_url("login.php") was successful, 24677 body bytes, 1097 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(86): web_submit_data("login.php_2") started  	[MsgId: MMSG-26355]
+vuser_init.c(86): Redirecting "http://nbnote.ru/pbb/login.php" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_init.c(86): To location "http://nbnote.ru/pbb/index.php?login=1"  	[MsgId: MMSG-26693]
+vuser_init.c(86): Resource "http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(86): Resource "http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(86): Resource "http://nbnote.ru/pbb/include/js/min/punbb.common.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(86): web_submit_data("login.php_2") was successful, 7691 body bytes, 1195 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(103): Notify: Transaction "UC01_TR01_Login" ended with a "Pass" status (Duration: 1,7290 Think Time: 1,1834 Wasted Time: 0,0271).
+vuser_init.c(105): lr_think_time: 0,90 seconds (recorded think time was 1,54 seconds).
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Warning -27077: The "vuser_init" section contains web function(s) when the "Simulate a new user on each iteration" Run-Time Setting is ON.  This may produce unpredictable results with multiple iterations  	[MsgId: MWAR-27077]
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(6): Notify: Transaction "UC01_TR02_Jump_Test_forum" started.
+Action.c(8): web_url("Test forum") started  	[MsgId: MMSG-26355]
+Action.c(8): Resource "http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(8): Resource "http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(8): Resource "http://nbnote.ru/pbb/include/js/min/punbb.common.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(8): web_url("Test forum") was successful, 16106 body bytes, 577 header bytes, 28 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(18): Notify: Transaction "UC01_TR02_Jump_Test_forum" ended with a "Pass" status (Duration: 0,0470 Wasted Time: 0,0019).
+Action.c(20): Notify: Transaction "UC01_TR033_Jump_Search" started.
+Action.c(22): Notify: Transaction "UC01_TR033_Jump_Search" ended with a "Pass" status (Duration: 0,0000).
+Action.c(24): Notify: Transaction "UC01_TR03_Search_Input_Topic" started.
+Action.c(29): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(29): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(32): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(32): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(45): web_url("search.php") started  	[MsgId: MMSG-26355]
+Action.c(45): Redirecting "http://nbnote.ru/pbb/search.php?action=search&keywords=topic&search=Search" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(45): To location "http://nbnote.ru/pbb/search.php?search_id=820149605"  	[MsgId: MMSG-26693]
+Action.c(45): Resource "http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Resource "http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Resource "http://nbnote.ru/pbb/include/js/min/punbb.common.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Registered web_reg_find successful for "Text=Posts found:" (count=2)  	[MsgId: MMSG-26364]
+Action.c(45): web_url("search.php") was successful, 15042 body bytes, 1050 header bytes, 21 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(55): Notify: Transaction "UC01_TR03_Search_Input_Topic" ended with a "Pass" status (Duration: 0,1070 Wasted Time: 0,0063).
+Action.c(57): lr_think_time: 1,13 seconds (recorded think time was 1,54 seconds).
+Action.c(65): Notify: Transaction "UC01_TR04_Jump_Random_Topic" started.
+Action.c(69): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(69): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(74): web_url("{topic_theme}") started  	[MsgId: MMSG-26355]
+Action.c(74): Resource "http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(74): Resource "http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(74): Resource "http://nbnote.ru/pbb/include/js/min/punbb.common.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(74): web_url("{topic_theme}") was successful, 51523 body bytes, 692 header bytes, 67 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(84): Notify: Transaction "UC01_TR04_Jump_Random_Topic" ended with a "Pass" status (Duration: 0,1061 Wasted Time: 0,0038).
+Action.c(86): lr_think_time: 0,88 seconds (recorded think time was 1,54 seconds).
+Action.c(65): Notify: Transaction "UC01_TR04_Jump_Random_Topic" started.
+Action.c(69): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(69): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(74): web_url("{topic_theme}") started  	[MsgId: MMSG-26355]
+Action.c(74): Resource "http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(74): Resource "http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(74): Resource "http://nbnote.ru/pbb/include/js/min/punbb.common.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(74): web_url("{topic_theme}") was successful, 51122 body bytes, 825 header bytes, 67 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(84): Notify: Transaction "UC01_TR04_Jump_Random_Topic" ended with a "Pass" status (Duration: 0,0765 Wasted Time: 0,0080).
+Action.c(86): lr_think_time: 1,02 seconds (recorded think time was 1,54 seconds).
+Action.c(92): Notify: Transaction "UC01_TR06_Jump_Random_Topic_3" started.
+Action.c(96): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(96): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(103): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(103): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(108): web_url("{topic_theme}") started  	[MsgId: MMSG-26355]
+Action.c(108): Resource "http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(108): Resource "http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(108): Resource "http://nbnote.ru/pbb/include/js/min/punbb.common.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(108): web_url("{topic_theme}") was successful, 45347 body bytes, 861 header bytes, 60 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(118): Notify: Transaction "UC01_TR06_Jump_Random_Topic_3" ended with a "Pass" status (Duration: 0,0935 Wasted Time: 0,0036).
+Action.c(120): lr_think_time: 1,03 seconds (recorded think time was 1,54 seconds).
+Action.c(122): Notify: Transaction "UC01_TR07_Send_Comment_Topic_3" started.
+Action.c(126): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(126): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(131): web_submit_data("post.php") started  	[MsgId: MMSG-26355]
+Action.c(131): Redirecting "http://nbnote.ru/pbb/post.php?tid=5" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(131): To location "http://nbnote.ru/pbb/viewtopic.php?pid=593#p593"  	[MsgId: MMSG-26693]
+Action.c(131): Resource "http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(131): Resource "http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(131): Resource "http://nbnote.ru/pbb/include/js/min/punbb.common.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(131): web_submit_data("post.php") was successful, 48545 body bytes, 1814 header bytes, 60 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(147): Notify: Transaction "UC01_TR07_Send_Comment_Topic_3" ended with a "Pass" status (Duration: 0,1144 Wasted Time: 0,0045).
+Action.c(149): lr_think_time: 0,88 seconds (recorded think time was 1,54 seconds).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+vuser_end.c(4): Notify: Transaction "UC01_TR08_Logout" started.
+vuser_end.c(6): web_url("Logout") started  	[MsgId: MMSG-26355]
+vuser_end.c(6): Resource "http://nbnote.ru/pbb/style/Oxygen/Oxygen.min.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(6): Resource "http://nbnote.ru/pbb/style/Oxygen/responsive-nav.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(6): Resource "http://nbnote.ru/pbb/include/js/min/punbb.common.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(6): web_url("Logout") was successful, 5683 body bytes, 571 header bytes  	[MsgId: MMSG-26386]
+vuser_end.c(16): Notify: Transaction "UC01_TR08_Logout" ended with a "Pass" status (Duration: 0,0359 Wasted Time: 0,0025).
+Ending action vuser_end.
+Vuser Terminated.

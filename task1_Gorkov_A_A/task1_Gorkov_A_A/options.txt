@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\yandex\Работа\PerformanceLab\HP LoadRunner\task1_Gorkov_A_A\task1_Gorkov_A_A
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ee:\yandex\работа\performancelab\hp loadrunner\task1_gorkov_a_a\task1_gorkov_a_a\\logfile.log
+e:\yandex\работа\performancelab\hp loadrunner\task1_gorkov_a_a\task1_gorkov_a_a\\combined_task1_Gorkov_A_A.c
+e:\yandex\работа\performancelab\hp loadrunner\task1_gorkov_a_a\task1_gorkov_a_a\\pre_cci.c

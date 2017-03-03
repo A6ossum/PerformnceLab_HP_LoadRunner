@@ -1,0 +1,241 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+Failed to get information of process Id: 252
+Failed to get information of process Id: 424
+Failed to get information of process Id: 476
+Failed to get information of process Id: 500
+Failed to get information of process Id: 536
+Failed to get information of process Id: 552
+Failed to get information of process Id: 560
+Failed to get information of process Id: 640
+Failed to get information of process Id: 720
+Failed to get information of process Id: 800
+Failed to get information of process Id: 904
+Failed to get information of process Id: 944
+Failed to get information of process Id: 968
+Failed to get information of process Id: 996
+Failed to get information of process Id: 368
+Failed to get information of process Id: 1192
+Failed to get information of process Id: 1224
+Failed to get information of process Id: 1424
+Failed to get information of process Id: 1496
+Failed to get information of process Id: 1572
+PROCESS 0x69c       adappmgrsvc.exe
+PROCESS 0x734       armsvc.exe
+Failed to get information of process Id: 1876
+PROCESS 0x768       magentproc.exe
+Failed to get information of process Id: 1920
+PROCESS 0x788       mysqlnotifier.exe
+PROCESS 0x7dc       lmgrd.exe
+Failed to get information of process Id: 1048
+PROCESS 0x440       srvany.exe
+PROCESS 0x59c       kmservice.exe
+Failed to get information of process Id: 1624
+PROCESS 0x620       sqlservr.exe
+PROCESS 0x6f8       lmgrd.exe
+PROCESS 0x684       cdslmd.exe
+Failed to get information of process Id: 2212
+PROCESS 0x8c4       jusched.exe
+Failed to get information of process Id: 2428
+Failed to get information of process Id: 2460
+Failed to get information of process Id: 2580
+Failed to get information of process Id: 2772
+PROCESS 0xaf4       ss_conn_service.exe
+Failed to get information of process Id: 2856
+Failed to get information of process Id: 3032
+Failed to get information of process Id: 2068
+Failed to get information of process Id: 736
+Failed to get information of process Id: 2168
+Failed to get information of process Id: 3220
+Failed to get information of process Id: 3504
+PROCESS 0xe80       vugen.exe
+Failed to get information of process Id: 2204
+Failed to get information of process Id: 3604
+PROCESS 0xce0       iexplore.exe
+		11.00.9600.16428 (winblue_gdr.131013-1700)C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\SysWOW64\ntdll.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\kernel32.dll
+		6.1.7601.17932 (win7sp1_gdr.120820-0419)C:\Windows\syswow64\KERNELBASE.dll
+		7.0.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\msvcrt.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\syswow64\api-ms-win-downlevel-advapi32-l1-1-0.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\advapi32.DLL
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\SysWOW64\sechost.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\RPCRT4.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\SspiCli.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\CRYPTBASE.dll
+		11.00.9600.17840 (winblue_r11.150522-0826)C:\Windows\syswow64\iertutil.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\syswow64\api-ms-win-downlevel-version-l1-1-0.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\version.DLL
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\syswow64\api-ms-win-downlevel-user32-l1-1-0.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\user32.DLL
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\GDI32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\LPK.dll
+		1.0626.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\USP10.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\syswow64\api-ms-win-downlevel-normaliz-l1-1-0.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\normaliz.DLL
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\syswow64\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\shlwapi.DLL
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\IMM32.DLL
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\MSCTF.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\bbhook.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_trapper.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\mosifs32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\USERENV.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\profapi.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\thrdutil.dll
+		14.00.24215.1 built by: VCTOOLSD14ULDRC:\Windows\system32\VCRUNTIME140.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-runtime-l1-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\ucrtbase.DLL
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-core-timezone-l1-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-core-file-l2-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-core-localization-l1-2-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-core-processthreads-l1-1-1.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-core-file-l1-2-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-string-l1-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-heap-l1-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-stdio-l1-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-convert-l1-1-0.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\SHELL32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\IPHLPAPI.DLL
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\NSI.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\WINNSI.DLL
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-filesystem-l1-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-locale-l1-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-time-l1-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-multibyte-l1-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-utility-l1-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-environment-l1-1-0.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-math-l1-1-0.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\PathResolver.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\runtime_code_injection_lib.dll
+		14.00.24215.1 built by: VCTOOLSD14ULDRC:\Windows\system32\MSVCP140.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_sock_proxy.dll
+		                              C:\Program Files (x86)\HP\LoadRunner\bin\pcre-8.10.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\VnpLog.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\VnpUtils.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\MicSocket.dll
+		1.0.2d                        C:\Program Files (x86)\HP\LoadRunner\bin\libeay32_lt.dll
+		10.0.10240.16390 (th1_st1.150714-1601)C:\Windows\system32\api-ms-win-crt-conio-l1-1-0.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\WS2_32.dll
+		1.0.2d                        C:\Program Files (x86)\HP\LoadRunner\bin\ssleay32_lt.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\lrun50.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\WSOCK32.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\trans.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\mlib_ds.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\msg_handler.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\config.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\lr_exp.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\trans_server.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\timediff_ext.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\xdr.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\comm_util.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\libxdrutil.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\wrapzlib.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\libdatatypes.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\data_types_ifs.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\jrequestor_srv.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\dc_requests.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\ipng_utils.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\merc_uuid.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\ole32.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\runlogic.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\run_time_context.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\rtc_protocol.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\parameng.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\faserver.dll
+		12.53.845.0                   C:\Program Files (x86)\HP\LoadRunner\bin\wrapicu.dll
+		55, 1, 0, 0                   C:\Program Files (x86)\HP\LoadRunner\bin\icuuc55.dll
+		55, 1, 0, 0                   C:\Program Files (x86)\HP\LoadRunner\bin\icudt55.dll
+		11.00.51106.1 built by: Q11RELC:\Windows\system32\MSVCR110.dll
+		11.00.51106.1 built by: Q11RELC:\Windows\system32\MSVCP110.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_http_filter.dll
+		6.1.7601.17514                C:\Windows\syswow64\OLEAUT32.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_trapper1.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\WebMultiInProcNotify.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\uxtheme.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\dwmapi.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\system32\api-ms-win-downlevel-shell32-l1-1-0.dll
+		11.00.9600.16428 (winblue_gdr.131013-1700)C:\Windows\system32\IEFRAME.dll
+		6.10 (win7_rtm.090713-1255)   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+		11.00.9600.17840 (winblue_r11.150522-0826)C:\Program Files (x86)\Internet Explorer\IEShims.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\comdlg32.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\syswow64\api-ms-win-downlevel-ole32-l1-1-0.dll
+		11.00.9600.16428 (winblue_gdr.131013-1700)C:\Windows\syswow64\WININET.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\Bin\type_info_pool.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\SXS.DLL
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\Secur32.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\system32\api-ms-win-downlevel-advapi32-l2-1-0.dll
+		11.00.9600.16428 (winblue_gdr.131013-1700)C:\Windows\syswow64\urlmon.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\mswsock.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_openssl_proxy.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\WebGetClientCertificate.dll
+		14.0.24215.1 built by: VCTOOLSD14ULDRC:\Windows\system32\mfc140.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\bin\WebCertificateCreator.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\CRYPT32.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\MSASN1.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\CRYPTSP.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\rsaenh.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\System32\wship6.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\RpcRtRemote.dll
+		2001.12.8530.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\CLBCatQ.DLL
+		11.00.9600.17840 (winblue_r11.150522-0826)C:\Program Files (x86)\Internet Explorer\ieproxy.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\system32\api-ms-win-downlevel-shlwapi-l2-1-0.dll
+		11.00.9600.16428 (winblue_gdr.131013-1700)C:\Windows\system32\MSHTML.dll
+		11.00.9600.16428 (winblue_gdr.131013-1700)C:\Windows\system32\IEUI.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\system32\d2d1.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\system32\DWrite.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\system32\dxgi.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\bcrypt.dll
+		9.30.9600.17336               C:\Windows\system32\DXGIDebug.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\SysWOW64\bcryptprimitives.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\apphelp.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\WINTRUST.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\MLANG.dll
+		6.2.9200.16570 (win8_gdr.130327-1526)C:\Windows\system32\d3d11.dll
+		21.21.13.7290                 C:\Windows\system32\nvwgf2um.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\WINMM.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\PSAPI.DLL
+		7.00.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\PROPSYS.dll
+		2.11.4.0                      C:\Windows\system32\nvspcap.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\SETUPAPI.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\CFGMGR32.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\DEVOBJ.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\WINHTTP.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\webio.dll
+		21.21.13.7290                 C:\Windows\system32\nvapi.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\DNSAPI.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\System32\wshtcpip.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\rasadhlp.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\System32\fwpuclnt.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\Bin\WebSocketAnalyzer.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\NLAapi.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\napinsp.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\pnrpnsp.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\System32\winrnr.dll
+		12.53.1203.0                  C:\Program Files (x86)\HP\LoadRunner\Bin\api_sock_util.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\imagehlp.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\syswow64\dbghelp.dll
+		11.00.9600.16428 (winblue_gdr.131013-1700)C:\Windows\SysWOW64\jscript9.dll
+		11.00.9600.17840              C:\Windows\SysWOW64\ieapfltr.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\msimtf.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\ntmarta.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\syswow64\WLDAP32.dll
+		6.2.9200.16492 (win8_gdr_oobssr.130113-0015)C:\Windows\system32\windowscodecs.dll
+		7.0.0.0 (win7_rtm.090713-1255)C:\Windows\system32\OLEACC.DLL
+		6.30.7601.17514               C:\Windows\System32\msxml6.dll
+		1.3.1000.0                    C:\Windows\system32\XmlLite.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\credssp.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\SysWOW64\schannel.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\ncrypt.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\GPAPI.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\cryptnet.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\SensApi.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\dhcpcsvc6.DLL
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\dhcpcsvc.DLL
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\Cabinet.dll
+		6.1.7600.16385 (win7_rtm.090713-1255)C:\Windows\system32\DEVRTL.dll
+		6.1.7601.17514 (win7sp1_rtm.101119-1850)C:\Windows\system32\T2EMBED.DLL
+		7.0.0.0 (win7_rtm.090713-1255)C:\Windows\SysWOW64\uiautomationcore.dll
+Failed to get information of process Id: 4076
+Failed to get information of process Id: 1004

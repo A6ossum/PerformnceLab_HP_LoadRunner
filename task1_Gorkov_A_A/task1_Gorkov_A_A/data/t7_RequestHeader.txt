@@ -1,0 +1,11 @@
+GET /pbb/viewtopic.php?id=9 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://nbnote.ru/pbb/search.php?search_id=1660404996
+Accept-Language: ru-RU
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: nbnote.ru
+DNT: 1
+Connection: Keep-Alive
+Cookie: PHPSESSID=tuv5eun6kbl7ur7ns69vce1pj6; forum_cookie_3e0e84=Mzd8ODkzYTczOWYxOGExMmIyMjIzNTQyMzZmNzUyOThiOGY0MTg2MDk3MXwxNDg4NDYzOTA3fDM2OWI5MGQ2ZTM2ODkxYmZiZDhiMzg5NmUxMTQ1YTg5OTUxNDJiMDk%3D
+
